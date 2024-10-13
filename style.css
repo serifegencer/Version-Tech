@@ -19,3 +19,8 @@ main{
     display: flex;
     background-color: rgb(227, 217, 253);   
 }
+
+article{
+    background-color: aqua;
+    
+}

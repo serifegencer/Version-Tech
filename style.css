@@ -11,16 +11,17 @@ header{
 }
 nav ul li {
     list-style-type: none;
-    display: inline-block;
-    
+    display: inline-block;  
+
 }
+
 
 main{
     display: flex;
     background-color: rgb(227, 217, 253);   
 }
 
-article{
+/* article{
     background-color: aqua;
     
-}
+} */

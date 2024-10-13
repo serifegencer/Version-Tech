@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;  
+    font-family: sans-serif;
+}
+
+header{
+    background-color: rgb(227, 217, 253);  
+  
+}
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    
+}
+
+main{
+    display: flex;
+    background-color: rgb(227, 217, 253);   
+}
